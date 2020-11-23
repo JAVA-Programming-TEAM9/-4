@@ -3,7 +3,7 @@ import java.awt.event.*;
 import java.awt.*;
 
 /**
- * 여기에 MyHelloPanelListener 클래스 설명을 작성하십시오.
+ * KeyListener와 MouseListener를 구현한 Panel 클래스
  * 
  * @author (2019315020 오성빈, 2018210032 김태영) 
  * @version (2020.11.23)
